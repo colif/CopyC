@@ -1,0 +1,3 @@
+C:/Users/colfr/source/repos/CopyC/build/CMakeFiles/Copy_C.dir
+C:/Users/colfr/source/repos/CopyC/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/colfr/source/repos/CopyC/build/CMakeFiles/ZERO_CHECK.dir
