@@ -1,4 +1,4 @@
-# Copy_C for Windows 11
+# Copy_C for Windows 11 ARM64 not x86
 
 Copy_C is a small native C++ desktop app that saves the middle 20 seconds of a
 selected MP4 as `original-name_20onec.mp4` in the same folder. The picker opens
